@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/doguner1/PowerTuning/main/assets/icon.png" width="128" height="128" alt="PowerTuning Icon">
   <h1>🔋 PowerTuning for iOS</h1>
   <p><b>Dinamik Sistem Servis Yöneticisi ve Termal Koruma Kalkanı (iOS 15 / Rootless)</b></p>
   
@@ -22,11 +21,10 @@
 - **Donanımsal Olarak Güvenli (FakeFS Gerektirmez):** Servisler fiziksel olarak `/System` dizininden silinmez. Bu sayede Bootloop (Elma logusunda kalma) riski yoktur! Rootless esnekliği ile kalıcı hasar sıfırdır.
 
 ## 📸 Ekran Görüntüleri
-*(Buraya uygulamanın ekran görüntüleri eklenecektir)*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/doguner1/PowerTuning/main/assets/screen1.png" width="250" alt="Ana Ekran">
+  <img src="assets/screen1.jpg" width="250" alt="Ana Ekran">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/doguner1/PowerTuning/main/assets/screen2.png" width="250" alt="Log ve Geçişler">
+  <img src="assets/screen2.jpg" width="250" alt="Log ve Geçişler">
 </p>
 
 ## 🛡️ Modlar ve İşlevler
