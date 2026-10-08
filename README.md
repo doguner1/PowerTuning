@@ -22,7 +22,7 @@
 
 ## 📸 Ekran Görüntüleri
 <p align="center">
-  <img src="assets/screen1.jpg" width="250" alt="Ana Ekran">
+  <img src="assets/screen1.PNG" width="250" alt="Ana Ekran">
   &nbsp;&nbsp;&nbsp;
   <img src="assets/screen2.jpg" width="250" alt="Log ve Geçişler">
 </p>
