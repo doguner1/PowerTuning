@@ -27,8 +27,6 @@
   <img src="assets/screen2.jpg" width="250" alt="Log ve Geçişler">
   &nbsp;&nbsp;&nbsp;
   <img src="assets/screen3.PNG" width="250" alt="Log ve Geçişler">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/screen4.PNG" width="250" alt="Log ve Geçişler">
 </p>
 
 ## 🛡️ Modlar ve İşlevler
